@@ -5,4 +5,3 @@ Beautiful Responsive website 📄 using html, css and javascript.
 
 Don't forget to join the channel for more videos like this. [Cihan Koç](https://www.youtube.com/cihankoc41/?sub_confirmation=1)
 
-(/preview.PNG)
